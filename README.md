@@ -10,7 +10,7 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/118353735/236491557-9c75266c-7ec0-40c0-825e-fb4979a75183.png)
 # Когда выбираем функционал 2 : Value " bigram_in_console " показывает нам вероятность частоты всех существующих биграмм для создания именных слов и иллюстрирует это все в таблице .
 ![Screenshot_3](https://user-images.githubusercontent.com/118353735/236493494-ddd8c77f-0fd1-4c21-bb66-43a464d8de77.png)
-# Когда выбираем функционал 3 : Value " bigram_in_graph "  - открывает новое окно , а точнее PNG-файл чтобы рассмотреть вероятность всех биграмм в процентах .
+# Когда выбираем функционал 3 : Value " bigram_in_picture "  - открывает новое окно , а точнее PNG-файл чтобы рассмотреть вероятность всех биграмм в процентах .
 ![Screenshot_4](https://user-images.githubusercontent.com/118353735/236494796-e6a583da-57fe-46bf-80ca-b2062b37bab8.png)
 # Когда выбираем функционал 4 : Value " bigram_in_picture" - открывает теперь окно через pycharm , и показывает нам в формате графики (а точнее диаграммы) всех вероятностей .
 ![Screenshot_5](https://user-images.githubusercontent.com/118353735/236495844-2bbc41d5-49ee-4de6-88d2-1ed9ed93ebbb.png)
